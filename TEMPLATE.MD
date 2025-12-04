@@ -1,4 +1,3 @@
-```markdown
 # [Problem Number]. [Problem Name]
 
 **Difficulty:** [Easy/Medium/Hard]  
@@ -14,12 +13,10 @@
 
 ### Example(s)
 
-```
 Example 1:
 Input: 
 Output: 
 Explanation: 
-```
 
 ---
 
@@ -41,11 +38,9 @@ Explanation:
 
 ### Code
 
-```python
 def solution():
     # Your solution code
     pass
-```
 
 ### Complexity Analysis
 
@@ -83,4 +78,3 @@ def solution():
 - [ ] Month 1 review
 
 **Confidence Level:** ⭐⭐⭐☆☆ (3/5)
-```

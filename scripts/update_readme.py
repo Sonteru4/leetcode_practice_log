@@ -1,4 +1,3 @@
-```python
 # scripts/update_readme.py
 import os
 import glob
@@ -14,4 +13,3 @@ def count_problems():
     print(f"Total: {easy + medium + hard}")
 
 count_problems()
-```
